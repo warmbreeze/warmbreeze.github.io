@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JunZh&#39;s博客</title>
+  
+  <subtitle>天道酬勤 功不唐捐</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-24T12:32:16.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>JunZh</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>介绍</title>
+    <link href="http://yoursite.com/2019/09/24/intro/"/>
+    <id>http://yoursite.com/2019/09/24/intro/</id>
+    <published>2019-09-24T11:30:59.000Z</published>
+    <updated>2019-09-24T12:32:16.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;记录个人生活、工作方方面面，点点滴滴~~&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Distributed System" scheme="http://yoursite.com/categories/Distributed-System/"/>
+    
+      <category term="Big Data" scheme="http://yoursite.com/categories/Big-Data/"/>
+    
+      <category term="IoT" scheme="http://yoursite.com/categories/IoT/"/>
+    
+    
+      <category term="Distributed System" scheme="http://yoursite.com/tags/Distributed-System/"/>
+    
+      <category term="Big Data" scheme="http://yoursite.com/tags/Big-Data/"/>
+    
+      <category term="IoT" scheme="http://yoursite.com/tags/IoT/"/>
+    
+  </entry>
+  
+</feed>
