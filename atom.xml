@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-26T07:50:13.000Z</updated>
+  <updated>2019-10-26T13:50:32.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="http://yoursite.com/2019/10/26/elast-alert/"/>
     <id>http://yoursite.com/2019/10/26/elast-alert/</id>
     <published>2019-10-26T06:45:59.000Z</published>
-    <updated>2019-10-26T07:50:13.000Z</updated>
+    <updated>2019-10-26T13:50:32.000Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;&lt;a
-        
-      
+      &lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Yelp/elastalert&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;ElastAlert&lt;/a&gt;是一个对ES中数据变更、异常、突增或符合某种模式数据进行通知报警的简单框架，出自&lt;a href=&quot;https://yelp.github.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Yelp&lt;/a&gt;工程团队。&lt;/p&gt;
     
     </summary>
     
