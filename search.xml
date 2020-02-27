@@ -15,14 +15,16 @@
   <entry>
     <title><![CDATA[介绍]]></title>
     <url>%2Fintro.html</url>
-    <content type="text"><![CDATA[记录个人生活、工作方方面面，点点滴滴~~ 技术领域分布式系统大数据物联网生活旅游理财]]></content>
+    <content type="text"><![CDATA[记录个人生活、工作方方面面，点点滴滴~~ 技术领域分布式系统云原生大数据物联网生活旅游理财]]></content>
       <categories>
         <category>Distributed System</category>
+        <category>Cloud Native</category>
         <category>Big Data</category>
         <category>IoT</category>
       </categories>
       <tags>
         <tag>Distributed System</tag>
+        <tag>Cloud Native</tag>
         <tag>Big Data</tag>
         <tag>IoT</tag>
       </tags>
